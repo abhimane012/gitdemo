@@ -3,3 +3,5 @@ Just another file in feature-1 branch
 Modified another line locally
 
 This line is added in feature-2
+
+one more line is added in feature-2
