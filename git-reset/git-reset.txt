@@ -1,1 +1,7 @@
 First line added in git reset
+Intermediate line were reset by git reset option
+Here git reset in action complete
+performed all operations 
+    1. --mixed (default)
+    2. --hard (default)
+    3. --soft (default)
